@@ -2,7 +2,7 @@
 
 *(Slightly More Advanced Relay Technology (for Nostr))*
 
-`draft`
+`rfc`
 
 **PURPOSE**
 
